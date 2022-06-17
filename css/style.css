@@ -167,6 +167,11 @@ header .left-list {
     padding-bottom: 60px;
 }
 
+.art-link {
+    background: #F78B3B;
+    border-radius: 10px;
+}
+
 article {
     width: 1050px;
     height: 100px;
@@ -241,6 +246,15 @@ article {
     font-size: 12px;
     line-height: 14px;
     color: #5E5F61;
+}
+
+.all-link {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    border-radius: 10px;
 }
 
 .right_news {
