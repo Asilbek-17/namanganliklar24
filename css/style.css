@@ -735,3 +735,48 @@ footer {
     text-decoration: none;
     margin-bottom: 20px;
 }
+
+.tesla {
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.tesla-all {
+    display: flex;
+}
+
+.tesla-box {
+    width: 797px;
+    margin-right: 10px;
+}
+
+.tesla-span {
+    display: flex;
+    align-items: center;
+}
+
+.tesla-img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.tesla-title {
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 36px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.tesla-txt {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.tesla-txt:last-of-type {
+    margin-bottom: 50px;
+}
